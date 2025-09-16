@@ -131,21 +131,25 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/chakra--ui-%23319795.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
-
 ---
- <img src="https://camo.githubusercontent.com/41aa028b38c56eb39b064bd84492b57725843830eab1704a953dbfca18d70880/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a70566e433635446d596579524c344c48532f67697068792e676966" alt="Developer GIF 2" width="80%"/>
+
 <!-- GIF Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" alt="Developer Working GIF" width="200"/>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="Coding GIF" width="250"/>
-  <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" alt="Developer GIF 3" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="GIF" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="GIF" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt7nYk6w6gFj3y8/giphy.gif" alt="Developer GIF 4" width="300"/>
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="Coding GIF" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" alt="GIF" width="200"/>
+
   <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Your GIF" width="100"/>
 </p>
+
+
+
 
 </p>
 
@@ -188,5 +192,13 @@
 <!-- Thanks Banner -->
 <img height="120" width="100%" alt="Thanks for visiting me" 
      src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
+<div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="GIF 1" width="150"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="GIF 2" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="GIF 3" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="GIF 4" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="GIF 5" width="150"/>
+</div>
+
 
 
