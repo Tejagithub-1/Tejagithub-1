@@ -1,3 +1,4 @@
+
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Top Animation" width="30%" />
 
@@ -63,15 +64,19 @@
 
 
 ---
-
+ <img src="https://camo.githubusercontent.com/41aa028b38c56eb39b064bd84492b57725843830eab1704a953dbfca18d70880/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a70566e433635446d596579524c344c48532f67697068792e676966" alt="Developer GIF 2" width="80%"/>
 <!-- GIF Section -->
-<div align="center" style="margin:20px 0;">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Developer GIF 1" width="300"/>
-  <img src="https://camo.githubusercontent.com/41aa028b38c56eb39b064bd84492b57725843830eab1704a953dbfca18d70880/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a70566e433635446d596579524c344c48532f67697068792e676966" alt="Developer GIF 2" width="300"/>
-  <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" alt="Developer GIF 3" width="300"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" alt="Developer Working GIF" width="200"/>
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="Coding GIF" width="250"/>
+  <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" alt="Developer GIF 3" width="200"/>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/3o6Zt7nYk6w6gFj3y8/giphy.gif" alt="Developer GIF 4" width="300"/>
   <img src="https://media.giphy.com/media/26gssY6Xw1g0g5t5u/giphy.gif" alt="Developer GIF 5" width="300"/>
-</div>
+</p>
+
 
 ---
 
@@ -99,11 +104,7 @@
 ---
 
 <!-- Workspace GIF -->
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
-</p>
 
----
 
 <!-- Thanks Banner -->
 <img height="120" width="100%" alt="Thanks for visiting me" 
