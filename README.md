@@ -31,13 +31,13 @@
 <!-- Social Links Section -->
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/raviteja-gandrakota/" target="_blank">
+  <a href="https://www.linkedin.com/in/teja-ai-ml/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/raviteja-gandrakota" target="_blank">
+  <a href="https://github.com/Tejagithub-1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/raviteja.gandrakota/" target="_blank">
+  <a href="https://www.instagram.com/tej_glorious64" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
