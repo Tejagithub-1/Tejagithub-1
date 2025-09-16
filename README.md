@@ -1,4 +1,9 @@
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%22The+best+way+to+predict+the+future+is+to+create+it.%22;%22Keep+learning,+keep+building,+keep+growing." alt="Quotes Typing SVG"/>
+</p>
+
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Top Animation" width="30%" />
 <!-- Profile Views Badge -->
