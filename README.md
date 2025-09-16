@@ -1,8 +1,11 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Top Animation" width="30%" />
-
-  
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tejagithub-1&style=flat&color=blueviolet" alt="Profile Views Badge" />
+</p>
+ 
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=800&center=true&width=600&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Raviteja+Gandrakota+%F0%9F%98%8E;AI%2FML+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
