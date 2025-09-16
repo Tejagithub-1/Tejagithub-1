@@ -1,3 +1,24 @@
+<!-- Images taking full width with spacing -->
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; padding:10px;">
+  <a href="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" alt="Image 1" style="max-width:20px; width:20%; height:auto;"/>
+  </a>
+  <a href="https://user-images.githubusercontent.com/74038190/212259472-b30742fb-19dd-4258-80bf-05a56c9a352c.png" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212259472-b30742fb-19dd-4258-80bf-05a56c9a352c.png" alt="Image 2" style="max-width:150px; width:20%; height:auto;"/>
+  </a>
+  <a href="https://user-images.githubusercontent.com/74038190/213006207-f036aab8-ef1c-41ef-8a11-479ac0c7e1df.jpg" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/213006207-f036aab8-ef1c-41ef-8a11-479ac0c7e1df.jpg" alt="Image 3" style="max-width:150px; width:20%; height:auto;"/>
+  </a>
+  <a href="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" alt="Image 4" style="max-width:150px; width:17%; height:auto;"/>
+  </a>
+  <a href="https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png" alt="Image 5" style="max-width:150px; width:20%; height:auto;"/>
+  </a>
+</div>
+
+
+
 
 
 
@@ -122,7 +143,10 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt7nYk6w6gFj3y8/giphy.gif" alt="Developer GIF 4" width="300"/>
-  <img src="https://media.giphy.com/media/26gssY6Xw1g0g5t5u/giphy.gif" alt="Developer GIF 5" width="300"/>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Your GIF" width="100"/>
+</p>
+
 </p>
 
 
