@@ -1,11 +1,14 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=800&center=true&width=600&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Raviteja+Gandrakota+%F0%9F%98%8E;AI%2FML+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+
+
 <!-- Your Name and Intro -->
-<h1 align="center">Hi 👋, I'm Raviteja Gandrakota</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
   <!-- Profile views badge -->
-  <img src="https://komarev.com/ghpvc/?username=raviteja-gandrakota&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views badge" />
+ 
+
 </p>
+
 
 <!-- Skills Section -->
 ### 🛠️ My Skills
@@ -47,9 +50,7 @@
 
 <!-- Contributions Section -->
 ### 📈 Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviteja-gandrakota&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 <!-- Thanks Banner -->
 <img height="120" width="100%" alt="Thanks for visiting me" 
